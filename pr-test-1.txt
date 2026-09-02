@@ -1,0 +1,3 @@
+Repository: readiness-test-01
+Pull request test number: 1
+Created for ADO2GH readiness validation.
